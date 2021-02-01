@@ -1,4 +1,4 @@
-# Weather-Location
+# Weather-Location-Application
 
 ## JavaScript, React
 
