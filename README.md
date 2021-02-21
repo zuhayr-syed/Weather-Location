@@ -6,7 +6,9 @@
 
 • Parsed JSON weather data provided by the OpenWeatherMap API to make calls to a RESTFUL API
 
-• Implemented images to change the application’s background to either warm or cold, depending on the temperature 
+• Implemented dynamic background images, chosen based on the temperature of a given location 
+
+    - displays an image for warm temperature and another image for cold temperature 
 
 • Built a front-end user interface which displays the location, current date, and weather using React, HTML, and CSS
 
